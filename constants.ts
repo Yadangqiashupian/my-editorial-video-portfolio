@@ -56,9 +56,9 @@ export const PROJECTS: Project[] = [
     year: '2022',
     client: 'Michelin Guide',
     description: 'Food cinematography that focuses on texture and heat. Macro shots combined with elegant typography.',
-    videoUrl: 'https://www.youtube.com/embed/VIDEO_ID_HERE?autoplay=1',
+    videoUrl: 'https://www.youtube.com/embed/GuK1clWpJQo?autoplay=1',
     videoType: 'youtube',
-    thumbnail: 'https://images.unsplash.com/photo-1556910103-1c02745a30bf?q=80&w=2670&auto=format&fit=crop',
+    thumbnail: 'https://img.youtube.com/vi/GuK1clWpJQo/maxresdefault.jpg',
     tags: ['Commercial', 'Macro', 'Food']
   }
 ];
